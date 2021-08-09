@@ -6,6 +6,10 @@ This project was part of my [Udacity C++ Nanodegree Program](https://www.udacity
 
 <img src="map.png" width="600" height="450" />
 
+## Code Structure
+
+<img src="code_structure.png"/>
+
 ## Cloning
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
